@@ -1,1 +1,46 @@
 # index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+
+    <style>
+        body {
+            background-color: #111;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+        }
+
+        h1 {
+            color: #00ffcc;
+        }
+
+        button {
+            background-color: #00ffcc;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #00cc99;
+        }
+    </style>
+
+</head>
+<body>
+
+<h1>Welcome to my website 🔥</h1>
+
+<p>Hello, my name is Abdelmomen</p>
+<p>I am learning programming 💻</p>
+
+<a href="https://google.com">
+    <button>Visit Google</button>
+</a>
+
+</body>
+</html>
