@@ -1,4 +1,28 @@
-# index.html
+<style>
+    body {
+        background-color: #0d1117;
+        color: #c9d1d9;
+        text-align: center;
+        font-family: Arial;
+    }
+
+    h1 {
+        color: #58a6ff;
+    }
+
+    button {
+        background-color: #238636;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #2ea043;
+    }
+</style># index.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,7 +57,7 @@
 </head>
 <body>
 
-<h1>Welcome to my website 🔥</h1>
+<h1>Welcome to my website </h1>
 
 <p>Hello, my name is Abdelmomen</p>
 <p>I am learning programming 💻</p>
