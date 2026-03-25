@@ -58,6 +58,7 @@
 <body>
 
 <h1>Welcome to my website </h1>
+<img src="myphoto.jpg" width="150" style="border-radius:50%;">
 
 <p>Hello, my name is Abdelmomen</p>
 <p>I am learning programming 💻</p>
