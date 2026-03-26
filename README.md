@@ -26,7 +26,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My First Website from zero</title>
+    <title> from zero</title>
 
     <style>
         body {
