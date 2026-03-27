@@ -11,7 +11,7 @@
     }
 
     button {
-        background-color: #238636;
+        background-color: #f5f5f5;
         color: white;
         border: none;
         padding: 10px 20px;
