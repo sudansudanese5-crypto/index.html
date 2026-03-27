@@ -59,11 +59,9 @@
 
 <div><h1>Welcome to my website </h1>
 <img src="1773398397.png"width="150" style="border-radius:50%" "margin">
+    <h2>for students</h2>
+    <p>this channel for studying program html,css,python if you interested to learn program yo can join with me </p>
 <h3>my photo </h3>
-<h2>my delay roten</h2>
-<p>i study English and programming if you interestedto learnlike me you can join withme/p>
-
-<p>Hello, my name is Abdelmomen</p>
 <p>I am learning programming 💻</p>
 
 <a href="https://google.com">
