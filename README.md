@@ -29,7 +29,7 @@
     <title> from zero</title>
 
     <style>
-        body {
+    hover transform: scale(1.05);        body {
             background-color: #111;
             color: white;
             text-align: center;
