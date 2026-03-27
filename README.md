@@ -57,7 +57,7 @@
 </head>
 <body>
 
-<h1>Welcome to my website </h1>
+<div><h1>Welcome to my website </h1><div></div>
 <img src="1773398397.png"width="150" style="border-radius:50%" "margin">
 <h3>my photo </h3>
 
