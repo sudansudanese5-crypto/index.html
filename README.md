@@ -57,7 +57,7 @@
 </head>
 <body>
 
-<div><h1>Welcome to my website </h1><div></div>
+<div><h1>Welcome to my website </h1>
 <img src="1773398397.png"width="150" style="border-radius:50%" "margin">
 <h3>my photo </h3>
 
@@ -65,7 +65,7 @@
 <p>I am learning programming 💻</p>
 
 <a href="https://google.com">
-    <button>Visit Google</button>
+    <button>Visit Google</button></div>
 </a>
 
 </body>
