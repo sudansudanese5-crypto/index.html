@@ -32,7 +32,7 @@
     hover transform: scale(1.05);        body {
             background-color: #111;
             color: white;
-            text-align: center;
+            background-color:f5f5f5#            text-align: center;
             font-family: Arial;
         }
 
