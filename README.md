@@ -1,5 +1,6 @@
 <style>
-    body {
+    h1{
+    color:red     body {
         background-color: #0d1117;
         color: #c9d1d9;
         text-align: center;
