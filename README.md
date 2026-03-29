@@ -29,6 +29,9 @@
     <title> from zero</title>
 
     <style>
+    h1{
+color:red;
+
     hover transform: scale(1.05);        body {
             background-color: #111;
             color: white;
