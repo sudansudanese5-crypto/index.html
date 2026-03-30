@@ -21,17 +21,13 @@
     }
 
     button:hover {
-        background-color👱;
     }
 </style># index.html
 <!DOCTYPE html>
 <html>
 <head>
     <title> from zero</title>
-    <style>h1{color:red;}</style>
-    <style>h1{color:red;}</style>
-    h1{
-color:red;
+    <style>body{background-color:#fbf1e5;}</style>
 
     hover transform: scale(1.05);        body {
             background-color: #111;
