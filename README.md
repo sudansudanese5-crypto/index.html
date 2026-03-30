@@ -28,7 +28,7 @@
 <html>
 <head>
     <title> from zero</title>
-
+    <style>h1{color:red;}</style>
     <style>h1{color:red;}</style>
     h1{
 color:red;
